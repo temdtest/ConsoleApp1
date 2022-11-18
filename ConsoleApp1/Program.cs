@@ -12,6 +12,10 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World");
             // Comment section inserted
+
+            var UserInput = Console.ReadLine();
+            Console.WriteLine(UserInput);
+
         }
     }
 }
