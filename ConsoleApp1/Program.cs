@@ -11,10 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
-            // Comment section inserted
-
-            var userInput = Console.ReadLine();
-            Console.WriteLine(userInput);
+            Console.WriteLine("Feature branch 2 - Development 1");
 
         }
     }
