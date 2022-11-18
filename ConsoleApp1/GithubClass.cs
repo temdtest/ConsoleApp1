@@ -9,5 +9,6 @@ namespace ConsoleApp1
     class GithubClass
     {
         // Comment added from Github.
+        // Testing in contrast to existing comment
     }
 }
