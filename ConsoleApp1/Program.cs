@@ -2,7 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
+
 
 namespace ConsoleApp1
 {
@@ -10,12 +12,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello User, please enter your name: ");
-            // Comment section inserted
-
-            var userInput = Console.ReadLine();
-            Console.WriteLine($"Hello {userInput}!");
-
+            Console.WriteLine("Hello World");
+            Console.WriteLine("Feature branch 1 - Development 1");
         }
     }
 }
