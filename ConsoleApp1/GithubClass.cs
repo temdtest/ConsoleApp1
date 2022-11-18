@@ -8,6 +8,7 @@ namespace ConsoleApp1
 {
     class GithubClass
     {
+        // Testing out whether this comment will stick after a pull
         // Comment added from Github.
     }
 }
