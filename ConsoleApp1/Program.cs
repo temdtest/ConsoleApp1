@@ -10,11 +10,11 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+            Console.WriteLine("Hello User, please enter your name: ");
             // Comment section inserted
 
             var userInput = Console.ReadLine();
-            Console.WriteLine(userInput);
+            Console.WriteLine($"Hello {userInput}!");
 
         }
     }
